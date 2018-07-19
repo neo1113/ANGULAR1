@@ -1,0 +1,18 @@
+/* Styles go here */
+
+/* Move down content because we have a fixed navbar that is 3.5rem tall */
+body {
+  padding-top: 3.5rem;
+}
+
+.container {
+    max-width: 100%;
+}
+.jumbotron {
+    background: #fff;
+    padding: 2rem 1rem;
+}
+.service{
+    border-bottom: solid 1px #ccc;
+    padding:15px 0;
+}

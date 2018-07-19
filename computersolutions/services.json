@@ -1,0 +1,20 @@
+[
+  {
+    "id":1,
+    "name":"Hardware Repair",
+    "description":"Fusce sit amet tristique tellus. Integer id mauris viverra felis lobortis blandit nec ut mi. Nam imperdiet vehicula aliquam. Mauris molestie odio ut elit laoreet tempus. Ut id justo venenatis, blandit erat dignissim, lacinia felis. Vestibulum in porttitor dolor.",
+    "image":"Circle-icons-computer.svg.png"
+  },  
+  {
+    "id":2,
+    "name":"Virus Removal",
+    "description":"Fusce sit amet tristique tellus. Integer id mauris viverra felis lobortis blandit nec ut mi. Nam imperdiet vehicula aliquam. Mauris molestie odio ut elit laoreet tempus. Ut id justo venenatis, blandit erat dignissim, lacinia felis. Vestibulum in porttitor dolor.",
+    "image":"Circle-icons-computer.svg.png"
+  },  
+  {
+    "id":3,
+    "name":"System Tuneup",
+    "description":"Fusce sit amet tristique tellus. Integer id mauris viverra felis lobortis blandit nec ut mi. Nam imperdiet vehicula aliquam. Mauris molestie odio ut elit laoreet tempus. Ut id justo venenatis, blandit erat dignissim, lacinia felis. Vestibulum in porttitor dolor.",
+    "image":"Circle-icons-computer.svg.png"
+  }
+]
